@@ -22,10 +22,6 @@ Agentive UI System is an AI-powered user interface framework designed to simplif
 
 ---
 
-## Demo
-
-Try the live demo here:  
-👉 [Agentive UI Demo](https://claude.ai/public/artifacts/6205a47c-3488-4119-a0a0-df5436ee48f1)
 
 ---
 
